@@ -1,40 +1,40 @@
-# Overview
+# 概要
 
-A sample of Pipe that adds a tag to the URL in the string.  
-Within the sample Pipe has been added under the name `urllink`.
+文字列内のURLにaタグを付与するPipeのサンプルです。  
+サンプル内では`urllink`という名称でPipeが追加されています。
 
-# System requirements
+# 実行環境
 
 * Node.js 8.9.x
 * TypeScript 2.9.x
 * Angular 6.1.x
 
-# Operation check  
+# 動作確認  
 
-## 1. Download Sample
+## 1. サンプルのダウンロード
 
 ```
 git clone git@github.com:yasu-s/ng-pipe-urllink.git
 ```
 
-## 2. Installing packages  
+## 2. パッケージインストール  
 
 ```
 cd ng-pipe-urllink
 npm install
 ```
 
-## 3. Launch sample application  
+## 3. サンプルの起動  
 
 ```
 npm start
 ```
 
-## 4. Execution result  
+## 4. 実行結果  
 
 ![urllink](https://user-images.githubusercontent.com/2668146/44306753-06f45100-a3d0-11e8-8d97-907e861131b2.gif)
 
-# Sample source
+# サンプルソース
 
 ## src/app/app.component.ts
 
