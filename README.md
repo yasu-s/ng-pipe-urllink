@@ -30,6 +30,10 @@ npm install
 npm start
 ```
 
+## 4. 実行結果  
+
+![urllink](https://user-images.githubusercontent.com/2668146/44306753-06f45100-a3d0-11e8-8d97-907e861131b2.gif)
+
 # サンプルソース
 
 ## src/app/app.component.ts
